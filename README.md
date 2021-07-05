@@ -1,4 +1,4 @@
-# ⚽Simple Web Parser App
+# 🗄️Simple Web Parser App
 
 Hello! My name is Danylo Krupnyk and I am Java Developer! 
 
